@@ -175,6 +175,9 @@ Start the server
 [Project PPT link](https://www.canva.com/design/DAFB_cbevI4/PuffPOhnvq9TzimRI4geOA/view?utm_content=DAFB_cbevI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Datasets
+
+Datasets are downloaded from Kaggle
+
 [Dataset used for sales dashboard](https://1drv.ms/x/s!Am250_ZUlrWBgQvFo1vGFFNVxUpU?e=mL7YvK)
 
 [Dataset used for website performance dashboard](https://1drv.ms/x/s!Am250_ZUlrWBgQ49yyqWxW46QDzF?e=5axe6o)
