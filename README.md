@@ -114,7 +114,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd CarFinder-Data-Analysis-Project-main
+  cd CarFinder-Data-Analysis-Project
 ```
 
 Install dependencies
