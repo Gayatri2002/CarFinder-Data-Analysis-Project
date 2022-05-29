@@ -17,5 +17,5 @@ streamlit_lottie
 sqlalchemy
 requests
 streamlit_option_menu
-json==0.1.7
+
 
