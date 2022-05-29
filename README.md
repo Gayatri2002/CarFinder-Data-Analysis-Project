@@ -205,7 +205,9 @@ Start the server
 This is a data analysis project that will benefit everyone who wants to sell or purchase a car, as well as sales and digital marketing teams in the automotive sector who want to do research. For sales and digital marketing teams in the automotive business, the car information, sales dashboard, and website performance tab from the website are useful.
 In the following ppt and video the project idea and it's uses are explained.
 
-(put links here)
+[Project PPT link](https://www.canva.com/design/DAFB_cbevI4/Kt52nTZ4VD7XWWvDBxMOpw/view?utm_content=DAFB_cbevI4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
+[Video link](https://www.canva.com/design/DAFB_cbevI4/Kt52nTZ4VD7XWWvDBxMOpw/view?utm_content=DAFB_cbevI4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 
 ## Used By
