@@ -51,7 +51,7 @@ For running this project on your system, you need to have VS code editor (or any
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone (https://github.com/Gayatri2002/CarFinder-Data-Analysis-Project)
    ```  
 
 3. Installation of libraries
