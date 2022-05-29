@@ -152,6 +152,12 @@ Start the server
 ```bash
   streamlit run app.py
 ```
+
+## Demonstration video
+
+[CarFinder Demonstration Video](https://1drv.ms/v/s!Am250_ZUlrWBgRXvsJ3IDoKDtJME?e=ZJgwzS)
+
+
 ## Roadmap
 
 
@@ -207,7 +213,7 @@ In the following ppt and video the project idea and it's uses are explained.
 
 [Project PPT link](https://www.canva.com/design/DAFB_cbevI4/Kt52nTZ4VD7XWWvDBxMOpw/view?utm_content=DAFB_cbevI4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
-[Video link](https://www.canva.com/design/DAFB_cbevI4/Kt52nTZ4VD7XWWvDBxMOpw/view?utm_content=DAFB_cbevI4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+[Video link](https://1drv.ms/v/s!Am250_ZUlrWBgRXvsJ3IDoKDtJME?e=ZJgwzS)
 
 
 ## Used By
@@ -230,7 +236,7 @@ Please make sure to update tests as appropriate.
 
 Gayatri Kalyani - [Linkedin](https://www.linkedin.com/in/gayatri-kalyani-397911217/) - gayatrikalyani44@gmail.com
 
-Project Link: [Github Profile](https://github.com/Gayatri2002/)
+
 
 ## Acknowledgments
 
