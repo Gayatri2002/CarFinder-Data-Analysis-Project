@@ -8,7 +8,7 @@ import json
 import streamlit as st
 import pickle
 import pandas as pd
-
+import plotly.express as px
 import numpy as np
 import plost
 import requests  
@@ -298,9 +298,9 @@ def main():
         st.write('')
         
         #Creating pie chart from the dataset using plotly
-        #pie_chart = px.pie(df, title= 'sales by different companies', values= 'model_year', names='maker')
+        pie_chart = px.pie(df, title= 'sales by different companies', values= 'model_year', names='maker')
 
-        #st.plotly_chart(pie_chart) #Displaying pie chart
+        st.plotly_chart(pie_chart) #Displaying pie chart
 
         
 
