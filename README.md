@@ -234,7 +234,10 @@ Please make sure to update tests as appropriate.
 
 ## Contact
 
-Gayatri Kalyani - [Linkedin](https://www.linkedin.com/in/gayatri-kalyani-397911217/) - gayatrikalyani44@gmail.com
+Gayatri Kalyani - [Linkedin](https://www.linkedin.com/in/gayatri-kalyani-397911217/) 
+
+Mail ID - gayatrikalyani44@gmail.com
+
 
 
 
