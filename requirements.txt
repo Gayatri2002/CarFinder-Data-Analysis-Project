@@ -18,5 +18,6 @@ sqlalchemy
 requests
 streamlit_option_menu
 openpyxl
+plotly.express
 
 
