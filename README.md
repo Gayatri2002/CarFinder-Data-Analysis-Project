@@ -170,9 +170,9 @@ Start the server
 
 
 ## Documentation
-[Documentation](https://1drv.ms/u/s!Am250_ZUlrWBeRMJpD7oKUhdHew?e=Er3NSZ)
+[Documentation](https://1drv.ms/u/s!Am250_ZUlrWBeQFDkXoRiyeM9ek?e=zbs4TS)
 
-[Project PPT link](https://www.canva.com/design/DAFB_cbevI4/Kt52nTZ4VD7XWWvDBxMOpw/view?utm_content=DAFB_cbevI4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+[Project PPT link](https://www.canva.com/design/DAFB_cbevI4/PuffPOhnvq9TzimRI4geOA/view?utm_content=DAFB_cbevI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Datasets
 [Dataset used for sales dashboard](https://1drv.ms/x/s!Am250_ZUlrWBgQs6AM4u80JhTx-j?e=yZhNj4)
@@ -211,7 +211,7 @@ Start the server
 This is a data analysis project that will benefit everyone who wants to sell or purchase a car, as well as sales and digital marketing teams in the automotive sector who want to do research. For sales and digital marketing teams in the automotive business, the car information, sales dashboard, and website performance tab from the website are useful.
 In the following ppt and video the project idea and it's uses are explained.
 
-[Project PPT link](https://www.canva.com/design/DAFB_cbevI4/Kt52nTZ4VD7XWWvDBxMOpw/view?utm_content=DAFB_cbevI4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+[Project PPT link](https://www.canva.com/design/DAFB_cbevI4/PuffPOhnvq9TzimRI4geOA/view?utm_content=DAFB_cbevI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 [Video link](https://1drv.ms/v/s!Am250_ZUlrWBgRXvsJ3IDoKDtJME?e=ZJgwzS)
 
